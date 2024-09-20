@@ -19,6 +19,15 @@ namespace APIsAndJSON
 
             Console.WriteLine($" kanye: {kanyeQuote}");
             Console.WriteLine($"-----------------------");
+            Console.WriteLine($" kanye: {kanyeQuote}");
+            Console.WriteLine($"-----------------------");
+            Console.WriteLine($" kanye: {kanyeQuote}");
+            Console.WriteLine($"-----------------------");
+            Console.WriteLine($" kanye: {kanyeQuote}");
+            Console.WriteLine($"-----------------------");
+            Console.WriteLine($" kanye: {kanyeQuote}");
+            Console.WriteLine($"-----------------------");
+
         }
 
         public static void RonQuote()
@@ -32,6 +41,13 @@ namespace APIsAndJSON
 
             Console.WriteLine($" Ron {RonQuote}");
             Console.WriteLine($"-----------------------");
+            Console.WriteLine($" Ron {RonQuote}");
+            Console.WriteLine($"-----------------------");
+            Console.WriteLine($" Ron {RonQuote}");
+            Console.WriteLine($"-----------------------");
+            Console.WriteLine($" Ron {RonQuote}");
+            Console.WriteLine($"-----------------------");
+            Console.WriteLine($" Ron {RonQuote}");
         }
     }
 }
